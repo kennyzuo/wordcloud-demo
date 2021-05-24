@@ -1,0 +1,16 @@
+{
+  "name": "wordcloud-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel index.html"
+  },
+  "dependencies": {
+    "mockjs": "^1.1.0"
+  }
+}
